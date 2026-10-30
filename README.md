@@ -13,6 +13,7 @@ Smart Spiroballs / Smart SpiroGame merupakan proyek pengembangan prototipe berba
 | [BM100](docs/BM100.md) | Proposal pengembangan proyek | Draf |
 | [BM200](docs/BM200.md) | Spesifikasi dan rencana verifikasi | Draf |
 | [BM300](docs/BM300.md) | Konsep, desain, dan rencana pengujian | Draf |
+| [Presentasi UTS PSB II](presentations/UTS_PSB_II_Smart_Spiroballs.pdf) | Presentasi kelompok: rancangan, progres, rencana pengujian, dan luaran | Tersedia |
 
 ## Struktur dan Rencana Dokumentasi Repositori
 
@@ -23,6 +24,8 @@ Smart Spiroballs / Smart SpiroGame merupakan proyek pengembangan prototipe berba
 │   ├── BM100.md
 │   ├── BM200.md
 │   └── BM300.md
+├── presentations/
+│   └── UTS_PSB_II_Smart_Spiroballs.pdf
 ├── firmware/
 │   ├── README.md
 │   └── SmartSpiroballs/
@@ -51,6 +54,10 @@ Folder bertanda **rencana folder** merupakan bagian dari rencana pengembangan do
 ## Implementasi Firmware
 
 Firmware yang diunggah menyediakan pembacaan BMP280, baseline tekanan, mode FREE/HOLD, level berbasis ambang, serta tampilan OLED dan Serial. Perhitungan FVC/PEFR dan integrasi Telegram yang disebut dalam dokumen perencanaan belum diimplementasikan pada kode ini. Jenis board aktual belum dapat dipastikan hanya dari kode sumber.
+
+## Presentasi UTS
+
+[Unduh atau baca presentasi UTS PSB II](presentations/UTS_PSB_II_Smart_Spiroballs.pdf). Berkas terdiri dari 9 halaman. Salinan untuk repositori menggunakan kompresi gambar; teks dan jumlah halaman dipertahankan. Berkas sumber asli tidak diubah.
 
 ## Keterangan Dokumentasi
 
